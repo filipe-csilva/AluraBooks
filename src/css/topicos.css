@@ -1,0 +1,21 @@
+.topicos{
+    background: var(--cor-azul-gradiente);
+    text-align: center;
+}
+
+.topicos__titulo{
+    font-weight: 300;
+    color: var(--cor-branca);
+}
+
+.topicos__lista{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1em;
+    justify-content: center;
+}
+
+.topicos__item{
+    background: var(--cor-laranja);
+    padding: 1em;
+}

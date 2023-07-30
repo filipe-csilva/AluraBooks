@@ -1,0 +1,20 @@
+@import url("../css/header.css");
+@import url("../css/banner.css");
+@import url("../css/carossel.css");
+@import url("../css/topicos.css");
+
+:root{
+    --cor-de-fundo : #EBECEE;
+    --cor-branca : #fff;
+    --cor-laranja : #EB9B0B;
+    --cor-azul : #002F52;
+    --cor-azul-gradiente : linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
