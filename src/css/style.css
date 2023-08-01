@@ -10,6 +10,9 @@
     --cor-branca : #fff;
     --cor-laranja : #EB9B0B;
     --cor-azul : #002F52;
+    --cor-preto : #000000;
+    --cor-cinza : #474646;
+    --cor-cinza-claro : #858585;
     --cor-azul-gradiente : linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
 
 }
